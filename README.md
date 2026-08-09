@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=E3DBCC&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=18314C&style=flat" />
 </p>
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -8,10 +8,9 @@
   </a>
 </p>
 </p>
-   <p align="center">
-   <a href="https://guns.lol/zaff">
-  <img src="1000017058-removebg-preview.png" width="290">
- <a href="https://www.instagram.com/2.roseprims?igsh=ZThhenp6ZTRzdzNr">
-  <img src="1000017080-removebg-preview.png" width="290">
-</a>   
-  
+<p align="center">
+<a href="https://sunandmoon.atabook.org/">Atabook</a>
+<a href="https://guns.lol/zaff">guns.lol</a>
+<a href="https://inoukiroji.straw.page">Straw</a>
+     <p align="center"> 
+       ᶻ 𝘇 𐰁 
