@@ -7,6 +7,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dro6xu46npnmvg5vh5wmlxeikm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=e6bba8&bar_color_cover=false">
   </a>
 </p>
+<p align="center">
+  <img src="d93f78ad04d354fef0545f1c7fe76ea0.jpg" width="50%">
+</p>
 </p>
 <p align="center">
 <a href="https://sunandmoon.atabook.org/">Atabook</a>
