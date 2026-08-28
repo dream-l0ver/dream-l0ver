@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="1000018006-removebg-preview.png" width="50%">
+  <img src="1000018006-removebg-preview.png" width="40%">
 </p>
 </p>
 <p align="center">
