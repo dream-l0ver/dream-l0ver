@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=FFF8E7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=EAE0C8&style=flat" />
 </p>
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
