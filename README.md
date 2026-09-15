@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="1000018310-removebg-preview.png" width="45%">
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=3C5E82&style=flat" />
 </p>
@@ -8,19 +10,15 @@
   </a>
 </p>
 <p align="center">
-  <img src="1000018006-removebg-preview.png" width="45%">
+  <img src="1000018307-removebg-preview.png" width="45%">
 </p>
 <p align="center">
-  <img src="github_text_animation_2phrases_blue.gif" width="500">
+  <img src="github_text_animation-1.gif" width="300">
 </p>
 </p>
 <p align="center">
-<a href="https://sunandmoon.atabook.org/">Atabook</a>
+<a href="https://sunandmoon.atabook.org/">Atabook</a> 
 <a href="https://guns.lol/zaff">guns.lol</a>
 <a href="https://inoukiroji.straw.page">Straw</a>
      <p align="center"> 
        ᶻ 𝘇 𐰁 
-
-<p align="center">
-  <img src="github_text_animation-1.gif" width="300">
-</p>
