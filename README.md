@@ -10,6 +10,9 @@
 <p align="center">
   <img src="1000018006-removebg-preview.png" width="45%">
 </p>
+<p align="center">
+  <img src="github_text_animation_2phrases_blue.gif" width="500">
+</p>
 </p>
 <p align="center">
 <a href="https://sunandmoon.atabook.org/">Atabook</a>
@@ -17,6 +20,7 @@
 <a href="https://inoukiroji.straw.page">Straw</a>
      <p align="center"> 
        ᶻ 𝘇 𐰁 
+
 <p align="center">
-  <img src="github_text_animation_2phrases_blue.gif" width="500">
+  <img src="github_text_animation-1.gif" width="300">
 </p>
