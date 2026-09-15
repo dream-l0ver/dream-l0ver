@@ -18,5 +18,5 @@
      <p align="center"> 
        ᶻ 𝘇 𐰁 
 <p align="center">
-  <img src="github_text_animation_dark_blue.gif" width="500">
+  <img src="github_text_animation_2phrases_blue.gif" width="500">
 </p>
