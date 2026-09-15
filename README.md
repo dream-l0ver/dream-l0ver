@@ -17,3 +17,6 @@
 <a href="https://inoukiroji.straw.page">Straw</a>
      <p align="center"> 
        ᶻ 𝘇 𐰁 
+<p align="center">
+  <img src="github_text_animation.gif" width="500">
+</p>
