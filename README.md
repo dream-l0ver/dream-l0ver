@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="1000018310-removebg-preview.png" width="45%">
+  <img src="1000018507-removebg-preview (1).png" width="45%">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=3C5E82&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=bd0000&style=flat" />
 </p>
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dro6xu46npnmvg5vh5wmlxeikm&cover_image=true&theme=novatorem&show_offline=true&background_color=081825&interchange=false&profanity=false&hide_remaster=false&bar_color=FFF8E7&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dro6xu46npnmvg5vh5wmlxeikm&cover_image=true&theme=novatorem&show_offline=true&background_color=5c0000&interchange=false&profanity=false&hide_remaster=false&bar_color=FFF8E7&bar_color_cover=false">
   </a>
 </p>
 <p align="center">
