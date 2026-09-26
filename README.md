@@ -10,7 +10,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="1000018307-removebg-preview.png" width="45%">
+  <img src="07396516dc3db66436a65f2c4a922f42.jpg" width="45%">
 </p>
 <p align="center">
   <img src="github_text_animation-1.gif" width="300">
