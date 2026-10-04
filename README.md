@@ -1,8 +1,6 @@
+
 <p align="center">
-  <img src="1000018507-removebg-preview (1).png" width="45%">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=bd0000&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=inoue&label=:p&color=CC55OO&style=flat" />
 </p>
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -10,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="07396516dc3db66436a65f2c4a922f42.jpg" width="45%">
+  <img src="Picsart_26-10-04_19-39-13-893.png" width="30%">
 </p>
 <p align="center">
   <img src="transparent_text-1.gif" width="500">
