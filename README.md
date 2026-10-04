@@ -12,7 +12,7 @@
   <img src="a_transparent.gif" width="500">
 </p>
 <p align="center">
-  <img src="Hermes_typewriter_slow.gif" width="500">
+  <img src="H_transparent.gif" width="500">
 </p>
 </p>
 <p align="center">
