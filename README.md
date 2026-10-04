@@ -9,7 +9,7 @@
   <img src="Picsart_26-10-04_19-39-13-893.png" width="30%">
 </p>
 <p align="center">
-  <img src="creation_four_part_typewriter_low.gif" width="500">
+  <img src="a_transparent.gif" width="500">
 </p>
 <p align="center">
   <img src="Hermes_typewriter_slow.gif" width="500">
