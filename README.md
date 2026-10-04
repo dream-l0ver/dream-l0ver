@@ -15,8 +15,9 @@
   <img src="H_transparent.gif" width="500">
 </p>
 </p>
-<p align="center">
+<p align="right">
+<img src="5c16dc71510dcf1d9c29f4b9ecc3693e.gif" width="50%">
+<p align="right">
 <a href="https://sunandmoon.atabook.org/">Atabook</a> 
+  <p align="right">
 <a href="https://guns.lol/zaff">guns.lol</a>
-     <p align="center"> 
-       ᶻ 𝘇 𐰁 
