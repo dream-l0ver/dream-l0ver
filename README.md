@@ -13,7 +13,7 @@
 </p>
 </p>
 <p align="center">
-<img src="5c16dc71510dcf1d9c29f4b9ecc3693e.gif" width="45%"> <p align="center"> anypronouns, basic dni 
+<img src="5c16dc71510dcf1d9c29f4b9ecc3693e.gif" width="45%"> 
 <p align="center">
 <a href="https://sunandmoon.atabook.org/">Atabook</a> 
   <p align="center">
