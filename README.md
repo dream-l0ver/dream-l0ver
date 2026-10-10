@@ -12,4 +12,6 @@
 <a href="https://sunandmoon.atabook.org/">Atabook</a> 
   <p align="center">
 <a href="https://guns.lol/zaff">guns.lol</a>
+<p align="center">
+<a href="https://inoukiroji.straw.page">strawpage</a>
 
