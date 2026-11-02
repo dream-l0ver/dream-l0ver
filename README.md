@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="IMG_20261030_183613.jpg" width="50%">
-  <p align="center">
-  animation soon 
+ yeah
+    <p align="center">
+  <img src="f4bad5f3101a9a566d2e4aa64159114d.jpg" width="60%">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dro6xu46npnmvg5vh5wmlxeikm&cover_image=true&theme=novatorem&show_offline=true&background_color=5c0000&interchange=false&profanity=false&hide_remaster=false&bar_color=E2725B&bar_color_cover=false">
